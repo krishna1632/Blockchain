@@ -96,6 +96,27 @@ tickets: It maps a tuple of (address, uint) to a uint, where the address represe
 
 ![image](https://github.com/krishna1632/Blockchain/assets/160998925/5b04269d-064b-4eaa-b94a-c84d3c09b431)
 
+6. Creating Events: Imagine you're hosting events like concerts or conferences. This contract helps you create these events. When you create an event, you specify details like its name, date, price per ticket, and how many tickets are available.
+
+![image](https://github.com/krishna1632/Blockchain/assets/160998925/b07afbdf-8f36-4606-b919-9cb973222810)
+
+![image](https://github.com/krishna1632/Blockchain/assets/160998925/446ea28d-36ff-4f7f-9d55-b200d0c4566c)
+
+7. Buying Tickets: People can buy tickets to attend these events. They specify which event they want to attend and how many tickets they want to buy. They also need to pay the required amount of cryptocurrency (ether) for the tickets.
+
+![image](https://github.com/krishna1632/Blockchain/assets/160998925/a610f5e8-496a-4420-a74d-42d677b11be1)
+
+![image](https://github.com/krishna1632/Blockchain/assets/160998925/d987d11e-98ef-49dd-afd1-c55cf561680c)
+
+8. Checking and Recording: The contract checks if the event exists, if it's happening in the future, and if there are enough tickets available. If everything checks out, it deducts the number of tickets from the available ones and keeps track of who bought the tickets.
+
+9. Transferring Tickets: If someone who bought tickets can't attend, they can transfer their tickets to someone else. This function helps in transferring the tickets from one person to another, as long as the event hasn't happened yet and the person has enough tickets to transfer.
+
+![image](https://github.com/krishna1632/Blockchain/assets/160998925/24766d65-5ba9-43bf-90e3-8162066d13df)
+
+
+
+
 
 
 
