@@ -92,6 +92,8 @@ tickets: It maps a tuple of (address, uint) to a uint, where the address represe
 ![image](https://github.com/krishna1632/Blockchain/assets/160998925/b66ddf75-3239-4c38-99b4-7908e9a7451b)
 
 5. nextId: This is a public unsigned integer variable that keeps track of the next available ID for events.
+
+
 ![image](https://github.com/krishna1632/Blockchain/assets/160998925/5b04269d-064b-4eaa-b94a-c84d3c09b431)
 
 
